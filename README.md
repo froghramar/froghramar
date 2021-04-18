@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer | .NET | Azure | Devops 👋
 
 <!--
 **froghramar/froghramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Feroz is a Software Engineer with 4 years of industry experience.
+He completed his bachelor's degree in Software Engineering from University of Dhaka.
+
+He has been building microservices on .NET.
+Being a certified Azure Developer, he is also maintaining cloud infrastructure and performing DevOps operations for his Organization.
+
+In the early days of his career, Feroz used to be a JavaScript developer with expertise on Angular.
