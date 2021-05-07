@@ -1,4 +1,4 @@
-### Software Engineer | .NET | Azure | Devops 👋
+### Senior Software Engineer | .NET | Azure | Devops 👋
 
 <!--
 **froghramar/froghramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
