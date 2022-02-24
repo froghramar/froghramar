@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Feroz is a Software Engineer with 4+ years of industry experience.
+Feroz is a Software Engineer with 5 years of industry experience.
 He completed his bachelor's degree in Software Engineering from University of Dhaka.
 
 He has been building microservices on .NET.
