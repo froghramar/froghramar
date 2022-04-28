@@ -1,4 +1,14 @@
-### Senior Software Engineer | .NET | Azure | Devops 👋
+### Senior Software Engineer | .NET | Azure | Devops
+
+<a href="https://github.com/froghramar">
+   <img src="https://komarev.com/ghpvc/?username=froghramar&style=for-the-badge">
+</a>
+<a href="https://github.com/froghramar?tab=followers">
+  <img src="https://img.shields.io/github/followers/froghramar?label=Followers&logo=github&style=for-the-badge" alt="GitHub Badge">
+</a>
+<a href="https://www.linkedin.com/in/froghramar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
 
 <!--
 **froghramar/froghramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
