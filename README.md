@@ -1,4 +1,4 @@
-### Senior Software Engineer | .NET | Azure | Devops
+### .NET Cloud Developer
 
 <a href="https://github.com/froghramar?tab=followers">
   <img src="https://img.shields.io/github/followers/froghramar?label=Followers&logo=github&style=for-the-badge" alt="GitHub Badge">
