@@ -11,10 +11,4 @@
 </a>
 
 
-Feroz is a Software Engineer with 6 years of industry experience.
-He completed his bachelor's degree in Software Engineering from University of Dhaka.
-
-He has been building microservices on .NET.
-Being a certified Azure Developer, he is also maintaining cloud infrastructure and performing DevOps operations for his Organization.
-
-In the early days of his career, Feroz used to be a JavaScript developer with expertise on Angular.
+Feroz is a software engineer with more than six years of industry experience. Most of his development skills are on Microsoft stack, especially C#, .NET Core, Azure Functions, Azure Cosmos DB, and Azure CI/CD pipelines. Throughout his career, Feroz has developed efficient, highly scalable, and fault-tolerant web applications.
