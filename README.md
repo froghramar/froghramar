@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://thebsd.github.io/StandWithPalestine)
+
 ### .NET Cloud Developer
 
 <a href="https://github.com/froghramar?tab=followers">
