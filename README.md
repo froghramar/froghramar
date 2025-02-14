@@ -13,4 +13,4 @@
 </a>
 
 
-Feroz is a software engineer with more than six years of industry experience. Most of his development skills are on Microsoft stack, especially C#, .NET Core, Azure Functions, Microsoft SQL Server, Azure Cosmos DB, and Azure CI/CD pipelines. Throughout his career, Feroz has developed efficient, highly scalable, and fault-tolerant web applications.
+Feroz is a software engineer with more than seven years of industry experience. Most of his development skills are on Microsoft stack, especially C#, .NET Core, Azure Functions, Microsoft SQL Server, Azure Cosmos DB, and Azure CI/CD pipelines. Throughout his career, Feroz has developed efficient, highly scalable, and fault-tolerant web applications.
